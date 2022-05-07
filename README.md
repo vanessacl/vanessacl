@@ -4,7 +4,7 @@ I'm a Front End Developer with experience developing and maintaining front end w
 
 * 👩🏻‍💻  Self-Taught Developer
 * 💻  Tech Enthusiast
-* 📚  Currently learning Gatsby and Next.js
+* 📚  Currently learning E-commerce 
 * 👩🏻‍💻  Lifelong Learner
 
 
